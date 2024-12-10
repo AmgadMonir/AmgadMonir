@@ -25,6 +25,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amgadmonir&show_icons=true&locale=en&layout=compact" alt="amgadmonir" /></p>
 
-<img src="https://raw.githubusercontent.com/AmgadMonir/AmgadMonir/output/snake.svg" alt="Snake animation" />
 
-###
