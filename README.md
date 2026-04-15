@@ -5,11 +5,7 @@
 
 - 🔭 I’m currently working on [Multiobjective Classifier Learning](https://www.kssk.pwr.edu.pl/projects/moo)
 
-- 🌱 I’m currently learning **BOTorch, RL, Bayesian Optimization**
-
 - 👯 I’m looking to collaborate on **Ensemble Learning for Imbalanced Data**
-
-- 🤝 I’m looking for help with **AutoML for DeepLearning**
 
 - 👨‍💻 All of my projects are available at [https://www.researchgate.net/profile/Amgad-Monir](https://www.researchgate.net/profile/Amgad-Monir)
 
