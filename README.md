@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amgad M. Mohammed</h1>
-<h3 align="center">A passionate Postdoc from Egypt</h3>
+<h3 align="center">A passionate Postdoc</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amgadmonir&label=Profile%20views&color=0e75b6&style=flat" alt="amgadmonir" /> </p>
 
